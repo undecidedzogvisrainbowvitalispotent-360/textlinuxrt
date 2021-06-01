@@ -1,6 +1,6 @@
 *openbsd *realtime *qnx
 
-UPD. and the better variant would be *textopenbsdrt but way too much work. openbsd rt patch anyone?
+UPD. and the better variant would be *textopenbsdrt https://github.com/undecidedzogvisrainbowvitalispotent-360/textopenbsdrt but way too much work. openbsd rt patch anyone?
 
 
 ```
