@@ -1,3 +1,8 @@
+*openbsd *realtime *qnx
+
+UPD. and the better variant would be *textopenbsdrt but way too much work. openbsd rt patch anyone?
+
+
 ```
  x
 6 лет назад
