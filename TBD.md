@@ -14,4 +14,4 @@ egplife
 только что
 денег бы на этот проект добыть.... ....  
 ```
-https://juick.com/justonemore/2770493#92
+https://juick.com/justonemore/2770493#92 https://juick.com/justonemore/2770493#93
